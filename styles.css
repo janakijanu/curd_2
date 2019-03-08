@@ -1,0 +1,84 @@
+.edit:hover
+{
+	color:blue;
+}
+.delete:hover
+{
+	 color:red;
+}
+.create
+{
+  	margin-left:4%;
+}
+.header
+{
+  	/*background-color:	#696969;
+	padding:100px; */
+	background-image:url('images1.jpg');
+	background-size:cover;
+}
+.crud
+{
+	text-align:center;
+}
+.h2Class
+{
+	color: white;
+}
+.btnClass
+{
+	background-color:#00BFFF;
+}
+.tableClass
+{
+	/*display:none;*/
+}
+.firstTable
+{
+	background-color:#2F4F4F;
+}
+.countries
+{
+	width: 400px;
+	color:white;
+	text-align:center;
+}
+.desc
+{
+	width: 400px;
+	color:white;
+	text-align:center;
+}
+.action
+{
+	width: 400px;
+	color:white;
+	text-align:center;
+}
+.modal
+{
+	/*display:none;*/
+}
+.create
+{
+	color:white;
+	margin-left:40%;
+}
+.secondClass
+{
+	padding: 28px 50px;
+}
+.country_name
+{
+	width:98px; 
+	color:white;
+}
+.save
+{
+	
+}
+.update
+{
+	margin-left:25%;
+	display:none
+}
